@@ -1,8 +1,8 @@
-The source code for the scheduler DFARM along with Ralba and others. This was coded using the Eclipse IDE and the main scheduler class in located in [cloudsim-cloudsim-4.0\modules\cloudsim-examples\src\main\java\org\cloudbus\cloudsim\examples\MyScheduler.java](cloudsim-cloudsim-4.0\modules\cloudsim-examples\src\main\java\org\cloudbus\cloudsim\examples\MyScheduler.java). The other schedulers are located alongside MyScheduler in [RALBA.java](cloudsim-cloudsim-4.0\modules\cloudsim-examples\src\main\java\org\cloudbus\cloudsim\examples\RALBA.java). Both files have controls at the top, they are used to select scheduler and other properties.
+The source code for the scheduler DFARM along with Ralba and others. This was coded using the Eclipse IDE and the main scheduler class in located in [cloudsim-cloudsim-4.0/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/MyScheduler.java](cloudsim-cloudsim-4.0/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/MyScheduler.java). The other schedulers are located alongside MyScheduler in [RALBA.java](cloudsim-cloudsim-4.0/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/RALBA.java). Both files have controls at the top, they are used to select scheduler and other properties.
 
 # DFARM Code
 
-As mentioned before, the code to the scheduler can be found in [cloudsim-cloudsim-4.0\modules\cloudsim-examples\src\main\java\org\cloudbus\cloudsim\examples\MyScheduler.java](cloudsim-cloudsim-4.0\modules\cloudsim-examples\src\main\java\org\cloudbus\cloudsim\examples\MyScheduler.java)
+As mentioned before, the code to the scheduler can be found in [cloudsim-cloudsim-4.0/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/MyScheduler.java](cloudsim-cloudsim-4.0/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/MyScheduler.java)
 
 # Results
 
